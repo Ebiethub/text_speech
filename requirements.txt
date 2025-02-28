@@ -1,0 +1,7 @@
+streamlit
+speech_recognition 
+langchain_groq
+deep_translator 
+gtts
+base64
+io
