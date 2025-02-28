@@ -1,7 +1,6 @@
 streamlit
-SpeechRecognition
+SpeechRecognition==3.8.1
 langchain_groq
 deep_translator 
 gtts
-base64
 io
